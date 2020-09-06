@@ -14,6 +14,6 @@
     Drop "CleverPet" folder inside your AddOns directory.
 
 # License:
-    You have to rights to republish this AddOn as your own.
+    You have no rights to republish this AddOn as your own.
     You can edit it as you like it.
     If you want to republish it, contact me first.
