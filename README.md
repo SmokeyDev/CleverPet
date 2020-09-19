@@ -11,7 +11,7 @@
     You can change text color and duration in the config inside CleverPet.lua
     
 # Screenshot:
-![Screenshot]https://i.imgur.com/lbvTxK3.png
+![Screenshot](https://i.imgur.com/lbvTxK3.png)
 
 # Installation:
     Drop "CleverPet" folder inside your AddOns directory.
